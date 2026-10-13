@@ -7,5 +7,5 @@
 - listaelem2
 1. sorszámozott1
 2. sorszámozott2
-[Ez egy link](https://dino.com)
+[Ez egy link](https://krisztianbandi.duckdns.org/)
 `alert(valami);`
